@@ -1,0 +1,13 @@
+body {
+    text-align: center;
+    background-color: aqua;
+}
+
+h1 {
+    color:darkred;
+}
+
+img{
+    width: 40%;
+    height: 500px;
+}
